@@ -2,9 +2,10 @@
 
 > **Take-Home Technical Assignment for Node.js Developer Intern**  
 > **Company:** NCode Technologies Inc.  
-> **Author:** Candidate Submission  
-> **Live Frontend URL:** [https://prop-manager.vercel.app](https://prop-manager.vercel.app) *(Update with your live Vercel URL)*  
-> **Live Backend API URL:** [https://prop-manager-api.onrender.com](https://prop-manager-api.onrender.com) *(Update with your live Render URL)*  
+> **Author:** Mann Parekh  
+> **Live Frontend URL:** [https://real-estate-property-management-iota.vercel.app](https://real-estate-property-management-iota.vercel.app)  
+> **Live Backend API URL:** [https://real-estate-property-management-dq0h.onrender.com](https://real-estate-property-management-dq0h.onrender.com)  
+> **GitHub Repository:** [https://github.com/Mannparekh4155/real-estate-property-management](https://github.com/Mannparekh4155/real-estate-property-management)  
 
 ---
 
